@@ -1,0 +1,2 @@
+# lidh
+mywifi
